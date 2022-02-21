@@ -1,5 +1,0 @@
-{"status":"success","country":"United States","countryCode":"US","region":"CT","regionName":"Connecticut","city":"Berlin","zip":"06037","lat":41.6187,"lon":-72.75,"timezone":"America/New_York","isp":"Comcast Cable Communications","org":"Comcast IP Services, L.L.C.","as":"AS7922 Comcast Cable Communications, LLC","query":"73.4.188.149"}
--DATE-
-18-02-2022 00:29:07
-
------------------
